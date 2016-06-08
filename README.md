@@ -19,21 +19,21 @@ testing this out
 			<div id=nav >
 				<ul>
 					<li class=first id=active ><a href="index.html"><h2>Home</h2></a></li>
-					<li><a href="second.html"><h2>second</h2></a></li>
-					<li><a href="third.html"><h2>third</h2></a></li>
-					<li><a href="fourth.html"><h2>fourth</h2></a></li>
-					<li><a href="fifth.html"><h2>fifth</h2></a></li>
-					<li class=last ><a href="last.html"><h2>last</h2></a></li>
+					<li><a href="second.html"><h2>Second</h2></a></li>
+					<li><a href="third.html"><h2>Third</h2></a></li>
+					<li><a href="fourth.html"><h2>Fourth</h2></a></li>
+					<li><a href="fifth.html"><h2>Fifth</h2></a></li>
+					<li class=last ><a href="last.html"><h2>Last</h2></a></li>
 				</ul>
 			</div>
 		</div>
 		<div class=main_content >
-			<div id=center_content ></div>
-			<div id=left_content ></div>
-			<div id=right_content ></div>
+			<div id=center_content ><h4>center content</h4></div>
+			<div id=left_content ><h4>left content</h4></div>
+			<div id=right_content ><h4>right content</h4></div>
 		</div>
 		<div class=footer >
-
+			<h4>Footer</h4>
 		</div>
 	</div>
 </body>
