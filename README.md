@@ -28,9 +28,9 @@ testing this out
 			</div>
 		</div>
 		<div class=main_content >
-			<div id=center_content  ><h4>center content</h4></br></br><p>lalalallallallallallallallalallalla</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br></p></div>
-			<div id=left_content style="float: left;" ><h4>left content</h4></br></br><p>lalalallallallallallallallalallalla</br>lalalalalalalalalalala</brlalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br></p></div>
-			<div id=right_content style="float: right;" ><h4>right content</h4></br></br><p>lalalallallallallallallallalallalla</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br></p></div>
+			<div id=center_content style="float:left; text-size: 20px; " ><h4>center content</h4></br></br><p>lalalallallallallallallallalallalla</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br></p></div>
+			<div id=left_content style="float:left" ><h4>left content</h4></br></br><p>lalalallallallallallallallalallalla</br>lalalalalalalalalalala</brlalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br></p></div>
+			<div id=right_content style="float:left" " ><h4>right content</h4></br></br><p>lalalallallallallallallallalallalla</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br></p></div>
 		</div>
 		<div class=footer >
 			<h4>Footer</h4></br></br><p>lalalalalalalalalalala</br>lalalalalalalalalalala</br>lalalalalalalalalalala</br></p>
